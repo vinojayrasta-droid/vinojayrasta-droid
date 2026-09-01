@@ -18,12 +18,12 @@ Saat ini saya fokus mengasah kemampuan data analysis menggunakan Python dan SQL,
 
 ## 📊 Featured Projects
 
-### [E-commerce Exploratory Data Analysis (Python)](https://github.com/rafaeljayrasta-droid/ecommerce_eda_analysis)
+### [E-commerce Exploratory Data Analysis (Python)](https://github.com/vinojayrasta-droid/ecommerce_eda_analysis)
 Analisis eksploratif terhadap dataset transaksi e-commerce untuk menjawab 5 pertanyaan bisnis — mulai dari negara & produk dengan performa terbaik, tren penjualan bulanan, hingga pola jam transaksi tersibuk. Dilengkapi feature engineering, visualisasi, dan analisis multivariate (correlation heatmap).
 
 **Key insight:** Revenue didominasi 1 negara (25x lipat lebih tinggi dari ranking ke-2) dan 2 produk andalan — mengarah pada rekomendasi strategi stok dan ekspansi pasar.
 
-### [E-commerce Data Cleaning & Analysis (SQL)](https://github.com/rafaeljayrasta-droid/ecommerce_sql_analysis)
+### [E-commerce Data Cleaning & Analysis (SQL)](https://github.com/vinojayrasta-droid/ecommerce_sql_analysis)
 Latihan data cleaning, feature engineering, dan analisis data menggunakan SQL (PostgreSQL) — mencakup standarisasi data, pembuatan kolom turunan, agregasi, subquery, hingga window function (`RANK() OVER PARTITION BY`) untuk analisis ranking produk per kategori.
 
 **Key skill demonstrated:** Penulisan query SQL tingkat lanjut untuk membersihkan data mentah dan menjawab pertanyaan bisnis secara langsung dari database.
